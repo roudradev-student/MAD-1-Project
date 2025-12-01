@@ -8,6 +8,9 @@ venv/
 env/
 ENV/
 .venv/
+myenv/
+my_venv/
+myenv/Lib/
 
 # VS Code settings
 .vscode/
